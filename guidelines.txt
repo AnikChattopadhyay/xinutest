@@ -1,0 +1,10 @@
+This file stipulates the guidelines to be followed in our project in order maintain the standard and integrity of the code already committed:
+ 
+1. Commenting-> Comments are put on every single procedure declaration or definition of methods, upon declaration of any variable or any file
+that's being checked in.
+
+2. Formatting-> Whatever code is checked in should at per with the standards any of production ready code. For that we maintain a properly
+formatted code. Every nested block should leave two white spaces, beings with an opening paranthesis and ends with a closing paranthesis.
+
+3. Naming Convention-> Varibles and methods are named logically. Also in naming variables or methods with multiple words, we follow camel 
+casing i.e. 'isMethodWorking' is a chosen method name, not something like "_is_method_working".
